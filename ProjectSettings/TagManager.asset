@@ -19,7 +19,7 @@ TagManager:
   - Platform
   - PlayerBullet
   - EnemyBullet
-  - 
+  - Door
   - 
   - 
   - 
@@ -43,4 +43,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3935162911
+    locked: 0
+  - name: Player
+    uniqueID: 3713473537
+    locked: 0
+  - name: Obstacles
+    uniqueID: 852732589
     locked: 0
