@@ -53,4 +53,14 @@ public class PlayerController : PlayerStateManager
     {
         dialog.text = _str;
     }
+
+    public void PlayerPause()
+    {
+        SetState(new PlayerStatePause(body));
+    }
+
+    public void PlayerPrevState()
+    {
+        SetState(prevState);
+    }
 }

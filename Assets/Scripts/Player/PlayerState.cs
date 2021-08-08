@@ -90,6 +90,11 @@ public abstract class PlayerState
         }
     }
 
+    public virtual void OnEscape()
+    {
+        GameController.instance.Pause();
+    }
+
     public virtual IEnumerator Exit()
     {
         yield break;

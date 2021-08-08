@@ -6,12 +6,14 @@ using UnityEngine.InputSystem;
 public class PlayerStateManager : MonoBehaviour
 {
     protected PlayerState state;
+    protected PlayerState prevState;
     protected Rigidbody2D body;
     protected float fireDir;
     protected void SetState(PlayerState _state)
     {
         if (state != null)
         {
+            prevState = state;
             StartCoroutine(state.Exit());
         }
 
@@ -53,6 +55,11 @@ public class PlayerStateManager : MonoBehaviour
     void OnDown(InputValue value)
     {
         state.OnDown(value);
+    }
+
+    void OnEscape()
+    {
+        state.OnEscape();
     }
 
 }

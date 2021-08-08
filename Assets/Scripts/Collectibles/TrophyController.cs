@@ -24,18 +24,15 @@ public class TrophyController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            int trophy = PlayerPrefs.GetInt("Trophies", 0);
-            trophy++;
-            PlayerPrefs.SetInt("Trophies", trophy);
+            GameController.instance.UpdateTrophies(1);
             StartCoroutine(CongratsText());
-            GetComponent<SpriteRenderer>().enabled = false;
         }
     }
 
     private IEnumerator CongratsText()
     {
         box.enabled = false;
-
+        GetComponent<SpriteRenderer>().enabled = false;
         foreach (string s in texts) 
         {
             PlayerController.instance.SetText(s);
