@@ -3,7 +3,7 @@
 ### Project made for [N8Jam](https://itch.io/jam/n8jam)
 
 =======
-# Hackerman README 
+# Hackerman README
 ###### Project made for [N8Jam](https://itch.io/jam/n8jam) Game Jam
 ---
 Theme of the jam is "Break the System" with an optional piece of lore: "I could almost feel its potential as they dropped it into my hand. A loud thump echoing through the area reminded me, this was not the end.”
@@ -17,4 +17,6 @@ The theme of the jam led me to the hacker theme for the game. The original idea 
 [Azonix Font](https://www.fontspace.com/azonix-font-f30718) by mixofx
 
 Other art made by discord user [Gon Freecss#8904]()
->>>>>>> d66285bac06e55a3eb30cf07e64086cc14ec2db0
+
+  Contains music ©2021 Joshua McLean (https://joshua-mclean.itch.io)
+  Licensed under Creative Commons Attribution 4.0 International
