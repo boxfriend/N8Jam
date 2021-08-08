@@ -1,0 +1,1524 @@
+fileFormatVersion: 2
+guid: 70053761610eee74c94fd856a99d49eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3608179389502499332
+    second: MM3-5_gb_Megaman_0
+  - first:
+      213: -4293924717040985885
+    second: MM3-5_gb_Megaman_1
+  - first:
+      213: 2905692809861178458
+    second: MM3-5_gb_Megaman_2
+  - first:
+      213: 1791047853043397166
+    second: MM3-5_gb_Megaman_3
+  - first:
+      213: -2127344752066245116
+    second: MM3-5_gb_Megaman_4
+  - first:
+      213: -6801120004774134711
+    second: MM3-5_gb_Megaman_5
+  - first:
+      213: 1483098223734973716
+    second: MM3-5_gb_Megaman_6
+  - first:
+      213: -3234873328390686109
+    second: MM3-5_gb_Megaman_7
+  - first:
+      213: -3167358814762592194
+    second: MM3-5_gb_Megaman_8
+  - first:
+      213: -3224325956531817263
+    second: MM3-5_gb_Megaman_9
+  - first:
+      213: 5382039927999424750
+    second: MM3-5_gb_Megaman_10
+  - first:
+      213: -5526905573667092384
+    second: MM3-5_gb_Megaman_11
+  - first:
+      213: 8884189005831550536
+    second: MM3-5_gb_Megaman_12
+  - first:
+      213: -338822092583929200
+    second: MM3-5_gb_Megaman_13
+  - first:
+      213: -7522900781174012224
+    second: MM3-5_gb_Megaman_14
+  - first:
+      213: -3448807020424745790
+    second: MM3-5_gb_Megaman_15
+  - first:
+      213: -5614326138591647802
+    second: MM3-5_gb_Megaman_16
+  - first:
+      213: 2893606938985800349
+    second: MM3-5_gb_Megaman_17
+  - first:
+      213: -6017177225643574804
+    second: MM3-5_gb_Megaman_18
+  - first:
+      213: 2086031357587507679
+    second: MM3-5_gb_Megaman_19
+  - first:
+      213: -896518193485265172
+    second: MM3-5_gb_Megaman_20
+  - first:
+      213: -1220567527005962930
+    second: MM3-5_gb_Megaman_21
+  - first:
+      213: -7409811353275402377
+    second: MM3-5_gb_Megaman_22
+  - first:
+      213: -77221328172374429
+    second: MM3-5_gb_Megaman_23
+  - first:
+      213: 2940053339534933466
+    second: MM3-5_gb_Megaman_24
+  - first:
+      213: 882502946525986857
+    second: MM3-5_gb_Megaman_25
+  - first:
+      213: 6252055811359789972
+    second: MM3-5_gb_Megaman_26
+  - first:
+      213: -8892196666890439763
+    second: MM3-5_gb_Megaman_27
+  - first:
+      213: 1511613529690101073
+    second: MM3-5_gb_Megaman_28
+  - first:
+      213: 3685582526861867463
+    second: MM3-5_gb_Megaman_29
+  - first:
+      213: -6755917823501021824
+    second: MM3-5_gb_Megaman_30
+  - first:
+      213: 6790630671052316954
+    second: MM3-5_gb_Megaman_31
+  - first:
+      213: -8671214302704135329
+    second: MM3-5_gb_Megaman_32
+  - first:
+      213: -7386705371176993093
+    second: MM3-5_gb_Megaman_33
+  - first:
+      213: -7385108876508169160
+    second: MM3-5_gb_Megaman_34
+  - first:
+      213: 2972096634637973481
+    second: MM3-5_gb_Megaman_35
+  - first:
+      213: -2415787492842304042
+    second: MM3-5_gb_Megaman_36
+  - first:
+      213: -8369063589470205507
+    second: MM3-5_gb_Megaman_37
+  - first:
+      213: -8100056905058426542
+    second: MM3-5_gb_Megaman_38
+  - first:
+      213: -7516755149166082850
+    second: MM3-5_gb_Megaman_39
+  - first:
+      213: 4689453758390787942
+    second: MM3-5_gb_Megaman_40
+  - first:
+      213: 2315409055897905188
+    second: MM3-5_gb_Megaman_41
+  - first:
+      213: 58904739083236704
+    second: MM3-5_gb_Megaman_42
+  - first:
+      213: -266722999438035030
+    second: MM3-5_gb_Megaman_43
+  - first:
+      213: 3235606496487213716
+    second: MM3-5_gb_Megaman_44
+  - first:
+      213: -7401532092122672543
+    second: MM3-5_gb_Megaman_45
+  - first:
+      213: -1792959275384960807
+    second: MM3-5_gb_Megaman_46
+  - first:
+      213: 2704331713624613625
+    second: MM3-5_gb_Megaman_47
+  - first:
+      213: 2561302900649481206
+    second: MM3-5_gb_Megaman_48
+  - first:
+      213: 8042076936032906340
+    second: MM3-5_gb_Megaman_49
+  - first:
+      213: 184144049561131984
+    second: MM3-5_gb_Megaman_50
+  - first:
+      213: -2770225957496502540
+    second: MM3-5_gb_Megaman_51
+  - first:
+      213: -7083731874039547256
+    second: MM3-5_gb_Megaman_52
+  - first:
+      213: 6022149283936074888
+    second: MM3-5_gb_Megaman_53
+  - first:
+      213: -7241322197034565710
+    second: MM3-5_gb_Megaman_54
+  - first:
+      213: -8379153426113574381
+    second: MM3-5_gb_Megaman_55
+  - first:
+      213: 3133072102067114911
+    second: MM3-5_gb_Megaman_56
+  - first:
+      213: 5774209276454220826
+    second: MM3-5_gb_Megaman_57
+  - first:
+      213: -7753674079708932007
+    second: MM3-5_gb_Megaman_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 285
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf551d256fb2dedc0800000000000000
+      internalID: -3608179389502499332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 301
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e89084583ae864c0800000000000000
+      internalID: -4293924717040985885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 285
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54ae2e2738135820800000000000000
+      internalID: 2905692809861178458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 285
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22b06078841bd810800000000000000
+      internalID: 1791047853043397166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 251
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ecc4a18372a72e0800000000000000
+      internalID: -2127344752066245116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 251
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c72a8b3619d91a0800000000000000
+      internalID: -6801120004774134711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 251
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4156cb80af5059410800000000000000
+      internalID: 1483098223734973716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 251
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a33efc8db6b13d0800000000000000
+      internalID: -3234873328390686109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 251
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e389fd970f74b04d0800000000000000
+      internalID: -3167358814762592194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 251
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d479d030a4e043d0800000000000000
+      internalID: -3224325956531817263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 246
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8ef5b9cc8d0ba40800000000000000
+      internalID: 5382039927999424750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 247
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068427ed9ac7c43b0800000000000000
+      internalID: -5526905573667092384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 247
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846350294dafa4b70800000000000000
+      internalID: 8884189005831550536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 251
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09afa791a134c4bf0800000000000000
+      internalID: -338822092583929200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 212
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c64d99f899499790800000000000000
+      internalID: -7522900781174012224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 213
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca5b899406320d0800000000000000
+      internalID: -3448807020424745790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 213
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7ed087f18e512b0800000000000000
+      internalID: -5614326138591647802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 213
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92aad51e28282820800000000000000
+      internalID: 2893606938985800349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 212
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9b1f29131be7ca0800000000000000
+      internalID: -6017177225643574804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 213
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9445ba77213fc10800000000000000
+      internalID: 2086031357587507679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 182
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6c2a6f37dee83f0800000000000000
+      internalID: -896518193485265172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 182
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dbe601d4caf0fe0800000000000000
+      internalID: -1220567527005962930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 182
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777fc5345df0b2990800000000000000
+      internalID: -7409811353275402377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 182
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a3357c97adeef0800000000000000
+      internalID: -77221328172374429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 182
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add3eab6fea2dc820800000000000000
+      internalID: 2940053339534933466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 178
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920cae011c74f3c00800000000000000
+      internalID: 882502946525986857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 176
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4935408b2a3c3c650800000000000000
+      internalID: 6252055811359789972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 150
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3351d8e32989480800000000000000
+      internalID: -8892196666890439763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_28
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 150
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1555ad21f745af410800000000000000
+      internalID: 1511613529690101073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 150
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9fcf7f7c1d52330800000000000000
+      internalID: 3685582526861867463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_30
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 150
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dcd7ea8882e32a0800000000000000
+      internalID: -6755917823501021824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 150
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1122f4fd9a2d3e50800000000000000
+      internalID: 6790630671052316954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 145
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f539804a888a9a780800000000000000
+      internalID: -8671214302704135329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 143
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe7682f9962d7990800000000000000
+      internalID: -7386705371176993093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c7524da92d28990800000000000000
+      internalID: -7385108876508169160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 114
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7fab174220f3920800000000000000
+      internalID: 2972096634637973481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 112
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8d4c1316697ed0800000000000000
+      internalID: -2415787492842304042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db909fea10d1bdb80800000000000000
+      internalID: -8369063589470205507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 112
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251ea892921d69f80800000000000000
+      internalID: -8100056905058426542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 112
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed40e5e640f1fa790800000000000000
+      internalID: -7516755149166082850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 78
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd083f859441140800000000000000
+      internalID: 4689453758390787942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 77
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428648ec44cf12020800000000000000
+      internalID: 2315409055897905188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 77
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b4a05c8541d000800000000000000
+      internalID: 58904739083236704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 77
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7b11d58d86c4cf0800000000000000
+      internalID: -266722999438035030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 77
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a011037fe27ec20800000000000000
+      internalID: 3235606496487213716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 77
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162df57f6c9784990800000000000000
+      internalID: -7401532092122672543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 62
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d800fdd9012e17e0800000000000000
+      internalID: -1792959275384960807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_47
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f22b698d57b78520800000000000000
+      internalID: 2704331713624613625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_48
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d363fa639b8320800000000000000
+      internalID: 2561302900649481206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c6a945d523b9f60800000000000000
+      internalID: 8042076936032906340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbd79599063e8200800000000000000
+      internalID: 184144049561131984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 23
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6cadf3b2e2e89d0800000000000000
+      internalID: -2770225957496502540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_52
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 23
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab2cb446781bd90800000000000000
+      internalID: -7083731874039547256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 23
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf165fdd8f29350800000000000000
+      internalID: 6022149283936074888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 23
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf7a95f3d7a18b90800000000000000
+      internalID: -7241322197034565710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 22
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ac0068a5447bb80800000000000000
+      internalID: -8379153426113574381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 23
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9395632a78ea7b20800000000000000
+      internalID: 3133072102067114911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 23
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14b1dd6ebc122050800000000000000
+      internalID: 5774209276454220826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM3-5_gb_Megaman_58
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 23
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589bc6518a656490800000000000000
+      internalID: -7753674079708932007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
