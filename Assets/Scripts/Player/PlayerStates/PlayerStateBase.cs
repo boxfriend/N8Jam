@@ -44,7 +44,7 @@ public class PlayerStateBase : PlayerState
             body.gameObject.layer = 7;
         }
 
-        PlayerController.instance.SetAnimState(body.velocity);
+        
     }
 
     public override void OnJump()

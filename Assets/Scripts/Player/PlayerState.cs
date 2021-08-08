@@ -11,6 +11,8 @@ public abstract class PlayerState
 
     protected bool isGrounded = true;
 
+    protected bool canFire = true;
+
     public PlayerState(Rigidbody2D _body)
     {
         body = _body;
@@ -47,9 +49,17 @@ public abstract class PlayerState
         dropDown = value.Get<float>();
     }
 
-    public virtual void OnFire(InputValue value)
+    public virtual IEnumerator OnFire(float fireDir)
     {
-
+        if (canFire)
+        {
+            canFire = false;
+            GameObject bullet = Object.Instantiate(PlayerController.instance.boolet, body.position, Quaternion.Euler(0, 0, 90)) as GameObject;
+            bullet.GetComponent<BulletController>().range = PlayerController.instance.range;
+            bullet.GetComponent<Rigidbody2D>().velocity = fireDir * new Vector2(5, 0);
+            yield return new WaitForSeconds(0.5f);
+            canFire = true;
+        }
     }
 
     public virtual IEnumerator Exit()

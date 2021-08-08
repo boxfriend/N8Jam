@@ -10,12 +10,12 @@ public class PlayerController : PlayerStateManager
 
     public LayerMask jumpMask;
     public int speed = 3;
-
     public Transform castPoint;
-
     private Animator anim;
-
     public Vector2 vel;
+    public GameObject boolet;
+    public float range;
+
 
     private void Awake()
     {

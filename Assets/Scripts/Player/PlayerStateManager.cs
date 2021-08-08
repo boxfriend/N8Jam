@@ -7,6 +7,7 @@ public class PlayerStateManager : MonoBehaviour
 {
     protected PlayerState state;
     protected Rigidbody2D body;
+    protected float fireDir;
     protected void SetState(PlayerState _state)
     {
         if (state != null)
@@ -22,6 +23,11 @@ public class PlayerStateManager : MonoBehaviour
     void Update()
     {
         state.Update();
+
+        if(fireDir != 0)
+        {
+            StartCoroutine(state.OnFire(fireDir));
+        }
     }
 
     private void FixedUpdate()
@@ -36,7 +42,7 @@ public class PlayerStateManager : MonoBehaviour
 
     void OnFire(InputValue value)
     {
-        state.OnMove(value);
+        fireDir = value.Get<float>();
     }
 
     void OnJump()

@@ -157,6 +157,9 @@ MonoBehaviour:
     m_Bits: 264
   speed: 3
   castPoint: {fileID: 3612679117519757197}
+  vel: {x: 0, y: 0}
+  boolet: {fileID: 3969155660836961469, guid: f8ac0b922d90db54da2b2b55a611687d, type: 3}
+  range: 10
 --- !u!114 &3612679118167926449
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -21,11 +21,6 @@ public class PlayerStateJump : PlayerState
         //body.MovePosition(body.position + moveDir * PlayerController.instance.speed/2 * Time.deltaTime);
     }
 
-    public override void OnFire(InputValue value)
-    {
-        base.OnFire(value);
-    }
-
     public override void OnJump()
     {
 
