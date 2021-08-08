@@ -10,7 +10,8 @@ public class PlayerController : PlayerStateManager
 
     public LayerMask jumpMask;
     public int speed = 3;
-    public Transform castPoint;
+    public float fireDelay;
+    public Transform castPoint, firePoint;
     
     public Vector2 vel;
     public GameObject boolet;
@@ -29,17 +30,23 @@ public class PlayerController : PlayerStateManager
         dialog.text = "";
     }
 
-    public void Jump()
+    
+
+    public void SetAnimState(bool t)
     {
-        SetState(new PlayerStateJump(body));
+        anim.SetBool("Grounded", t);
+        
     }
 
-    public void SetAnimState(Vector2 velocity)
+    public void FireAnim(bool t, float dir)
     {
-        anim.SetFloat("X", velocity.x);
-        anim.SetFloat("Y", velocity.y);
+        anim.SetBool("Fire", t);
+        anim.SetFloat("FireDir", dir);
+    }
 
-        vel = velocity;
+    public void MoveAnim(float x)
+    {
+        anim.SetFloat("X", x);
     }
 
     public void SetText(string _str)

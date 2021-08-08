@@ -15,44 +15,6 @@ public class PlayerStateBase : PlayerState
         yield break;
     }
 
-    public override void Update()
-    {
-        base.Update();
-    }
-
-    public override void FixedUpdate()
-    {
-        body.velocity = new Vector2(moveDir * PlayerController.instance.speed, body.velocity.y);
-
-        if(dropDown != 0)
-        {
-            body.gameObject.layer = 7;
-        }
-
-        RaycastHit2D ray = Physics2D.BoxCast(PlayerController.instance.castPoint.position, new Vector2(0.5f, 0.5f), 0f, Vector2.down, 0.3f, PlayerController.instance.jumpMask);
-
-        if (ray)
-        {
-            isGrounded = true;
-            if (dropDown == 0)
-            {
-                body.gameObject.layer = 6;
-            }
-        } else
-        {
-            isGrounded = false;
-            body.gameObject.layer = 7;
-        }
-
-        
-    }
-
-    public override void OnJump()
-    {
-        if(isGrounded)
-            body.AddForce(new Vector2(0,7), ForceMode2D.Impulse);
-    }
-
     public RaycastHit2D BoxCast(Vector2 origin, Vector2 size, float angle, Vector2 direction, float distance, int mask)
     {
         RaycastHit2D hit = Physics2D.BoxCast(origin, size, angle, direction, distance, mask);

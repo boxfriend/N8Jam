@@ -1,313 +1,313 @@
 fileFormatVersion: 2
-guid: 529a22bfcf74e4c4ba52955ff3d9eabd
+guid: 6aae786284052ff42ac89b4d2283371b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6137570100191548635
-    second: HackermanSprite_0
+      213: 375542213839543650
+    second: Hackerman_0
   - first:
-      213: -2619356708079222338
-    second: HackermanSprite_1
+      213: -1672317232083304668
+    second: Hackerman_1
   - first:
-      213: 7687446296271928713
-    second: HackermanSprite_2
+      213: 783354532748542871
+    second: Hackerman_2
   - first:
-      213: -8261257409354026660
-    second: HackermanSprite_3
+      213: -6372004600040993822
+    second: Hackerman_3
   - first:
-      213: 60574395271697938
-    second: HackermanSprite_4
+      213: -424554975287591235
+    second: Hackerman_4
   - first:
-      213: 3541038767042255884
-    second: HackermanSprite_5
+      213: -7019733258790745739
+    second: Hackerman_5
   - first:
-      213: 6611476007524240148
-    second: HackermanSprite_6
+      213: 8608866085680644091
+    second: Hackerman_6
   - first:
-      213: 5789044515728897982
-    second: HackermanSprite_7
+      213: -3053616907979859479
+    second: Hackerman_7
   - first:
-      213: 7371782128548176233
-    second: HackermanSprite_8
+      213: -8728879606634521390
+    second: Hackerman_8
   - first:
-      213: 4227948554555747589
-    second: HackermanSprite_9
+      213: 3426441436424650658
+    second: Hackerman_9
   - first:
-      213: 7803053779199515853
-    second: HackermanSprite_10
+      213: -5567733058860966853
+    second: Hackerman_10
   - first:
-      213: -6341604122614055853
-    second: HackermanSprite_11
+      213: 4388038894848700988
+    second: Hackerman_11
   - first:
-      213: -5245316227165529144
-    second: HackermanSprite_12
+      213: -4820527724680084904
+    second: Hackerman_12
   - first:
-      213: -5330869055131548101
-    second: HackermanSprite_13
+      213: -6424127518780784854
+    second: Hackerman_13
   - first:
-      213: 9011287536825828366
-    second: HackermanSprite_14
+      213: -3819140156998748611
+    second: Hackerman_14
   - first:
-      213: -526473548761740888
-    second: HackermanSprite_15
+      213: 3660837950094934692
+    second: Hackerman_15
   - first:
-      213: 5262252465192168899
-    second: HackermanSprite_16
+      213: 4078148682972353803
+    second: Hackerman_16
   - first:
-      213: -236431525139746580
-    second: HackermanSprite_17
+      213: -1937752936520608316
+    second: Hackerman_17
   - first:
-      213: 1472331533170802413
-    second: HackermanSprite_18
+      213: -6370684070189611661
+    second: Hackerman_18
   - first:
-      213: 4964442083078113642
-    second: HackermanSprite_19
+      213: -7670352750327508106
+    second: Hackerman_19
   - first:
-      213: -8408069964279628075
-    second: HackermanSprite_20
+      213: -6025030616819875854
+    second: Hackerman_20
   - first:
-      213: -5163377540433038762
-    second: HackermanSprite_21
+      213: -4183519892470590458
+    second: Hackerman_21
   - first:
-      213: -7663156262484550519
-    second: HackermanSprite_22
+      213: 7148739227013267405
+    second: Hackerman_22
   - first:
-      213: -2736255924368896088
-    second: HackermanSprite_23
+      213: -2786707718048074924
+    second: Hackerman_23
   - first:
-      213: 257619188871580855
-    second: HackermanSprite_24
+      213: -7530060430812898092
+    second: Hackerman_24
   - first:
-      213: -4662427791628473269
-    second: HackermanSprite_25
+      213: 6873399006654470994
+    second: Hackerman_25
   - first:
-      213: 575683247252568530
-    second: HackermanSprite_26
+      213: 3899584936084428780
+    second: Hackerman_26
   - first:
-      213: 2267172140250814229
-    second: HackermanSprite_27
+      213: 2818840731578254430
+    second: Hackerman_27
   - first:
-      213: -1511461956814496482
-    second: HackermanSprite_28
+      213: -4552849677645225685
+    second: Hackerman_28
   - first:
-      213: -1491659556243690264
-    second: HackermanSprite_29
+      213: 655575047618216569
+    second: Hackerman_29
   - first:
-      213: -6559152160559899303
-    second: HackermanSprite_30
+      213: -8820023050648179320
+    second: Hackerman_30
   - first:
-      213: -5385564675209987432
-    second: HackermanSprite_31
+      213: -9094829410334572953
+    second: Hackerman_31
   - first:
-      213: -8669077356031543512
-    second: HackermanSprite_32
+      213: -7392245894017866728
+    second: Hackerman_32
   - first:
-      213: 4794747600327567
-    second: HackermanSprite_33
+      213: 5711082862709116008
+    second: Hackerman_33
   - first:
-      213: 8951675588808501455
-    second: HackermanSprite_34
+      213: 1384100979012507655
+    second: Hackerman_34
   - first:
-      213: -5522361236152801118
-    second: HackermanSprite_35
+      213: -6173605686170651988
+    second: Hackerman_35
   - first:
-      213: -6232887572515799027
-    second: HackermanSprite_36
+      213: -5436213078505215183
+    second: Hackerman_36
   - first:
-      213: -3246065027401502831
-    second: HackermanSprite_37
+      213: -4134737065320442201
+    second: Hackerman_37
   - first:
-      213: 3650388860725743696
-    second: HackermanSprite_38
+      213: -1335252694566797519
+    second: Hackerman_38
   - first:
-      213: -3692012639636616617
-    second: HackermanSprite_39
+      213: -6588667502382867580
+    second: Hackerman_39
   - first:
-      213: -3779457913231886551
-    second: HackermanSprite_40
+      213: -5919051929677217976
+    second: Hackerman_40
   - first:
-      213: 1597605332407876814
-    second: HackermanSprite_41
+      213: -9031269006248273331
+    second: Hackerman_41
   - first:
-      213: 2915638134095459072
-    second: HackermanSprite_42
+      213: -4385540745431220737
+    second: Hackerman_42
   - first:
-      213: 8027000362847379476
-    second: HackermanSprite_43
+      213: 1865818245048978828
+    second: Hackerman_43
   - first:
-      213: 5310941577735541634
-    second: HackermanSprite_44
+      213: -6166005263444998078
+    second: Hackerman_44
   - first:
-      213: -5925770425892845756
-    second: HackermanSprite_45
+      213: -6072093049738988072
+    second: Hackerman_45
   - first:
-      213: 2643084513415837427
-    second: HackermanSprite_46
+      213: -6915585237742369213
+    second: Hackerman_46
   - first:
-      213: 3718655171163519614
-    second: HackermanSprite_47
+      213: -7998279747888860204
+    second: Hackerman_47
   - first:
-      213: -8956781741598998981
-    second: HackermanSprite_48
+      213: 2896948607701300760
+    second: Hackerman_48
   - first:
-      213: -2526743522106245140
-    second: HackermanSprite_49
+      213: 3536785659793569923
+    second: Hackerman_49
   - first:
-      213: 8313632288793853338
-    second: HackermanSprite_50
+      213: -8006991787577843408
+    second: Hackerman_50
   - first:
-      213: 4748605712635962497
-    second: HackermanSprite_51
+      213: -5557736189579733696
+    second: Hackerman_51
   - first:
-      213: -5875310764823628863
-    second: HackermanSprite_52
+      213: 862540286079403378
+    second: Hackerman_52
   - first:
-      213: 689614230361481500
-    second: HackermanSprite_53
+      213: -3967943889195679306
+    second: Hackerman_53
   - first:
-      213: 7006341021232787470
-    second: HackermanSprite_54
+      213: 2944084102821328073
+    second: Hackerman_54
   - first:
-      213: -6852768298537214975
-    second: HackermanSprite_55
+      213: -8872773116351250845
+    second: Hackerman_55
   - first:
-      213: 8753676156523013365
-    second: HackermanSprite_56
+      213: -5482518796993165978
+    second: Hackerman_56
   - first:
-      213: -4758166828732855066
-    second: HackermanSprite_57
+      213: 2818523244827246973
+    second: Hackerman_57
   - first:
-      213: -4535668867726569685
-    second: HackermanSprite_58
+      213: 3364541042638280494
+    second: Hackerman_58
   - first:
-      213: 6392724575589611535
-    second: HackermanSprite_59
+      213: 1616735244647647750
+    second: Hackerman_59
   - first:
-      213: -7826769645387456059
-    second: HackermanSprite_60
+      213: -1962327183779157469
+    second: Hackerman_60
   - first:
-      213: -7448318632131402612
-    second: HackermanSprite_61
+      213: 4421741376503877358
+    second: Hackerman_61
   - first:
-      213: -4512999047714756277
-    second: HackermanSprite_62
+      213: 8656645484932461615
+    second: Hackerman_62
   - first:
-      213: 3243404694815100381
-    second: HackermanSprite_63
+      213: 1550857320720451562
+    second: Hackerman_63
   - first:
-      213: -5812855497443277667
-    second: HackermanSprite_64
+      213: 4984538813241867046
+    second: Hackerman_64
   - first:
-      213: -1264672741849264863
-    second: HackermanSprite_65
+      213: 2901359524793706459
+    second: Hackerman_65
   - first:
-      213: 5076287368407280252
-    second: HackermanSprite_66
+      213: -2173534990510941224
+    second: Hackerman_66
   - first:
-      213: 8900529860315056387
-    second: HackermanSprite_67
+      213: 720262988983768683
+    second: Hackerman_67
   - first:
-      213: -1438591821881120560
-    second: HackermanSprite_68
+      213: -7136568400559593879
+    second: Hackerman_68
   - first:
-      213: -7230163980813947087
-    second: HackermanSprite_69
+      213: 9105019088317844044
+    second: Hackerman_69
   - first:
-      213: -6342578891631520718
-    second: HackermanSprite_70
+      213: 5530552297172968915
+    second: Hackerman_70
   - first:
-      213: -6296813709066071238
-    second: HackermanSprite_71
+      213: -2590769269530645235
+    second: Hackerman_71
   - first:
-      213: -988198706582458622
-    second: HackermanSprite_72
+      213: 2540981138009106992
+    second: Hackerman_72
   - first:
-      213: -663875119500727128
-    second: HackermanSprite_73
+      213: -5929318754958289577
+    second: Hackerman_73
   - first:
-      213: -7071518715123116634
-    second: HackermanSprite_74
+      213: -2389880354342944211
+    second: Hackerman_74
   - first:
-      213: -3967822118734024708
-    second: HackermanSprite_75
+      213: 6684601341008120663
+    second: Hackerman_75
   - first:
-      213: 2669395985878842270
-    second: HackermanSprite_76
+      213: 3369293143160019660
+    second: Hackerman_76
   - first:
-      213: -3651078295920331666
-    second: HackermanSprite_77
+      213: 3780658901389049628
+    second: Hackerman_77
   - first:
-      213: 8499397785768171405
-    second: HackermanSprite_78
+      213: -1428154942147945671
+    second: Hackerman_78
   - first:
-      213: -1734542599012949890
-    second: HackermanSprite_79
+      213: -5891478962615106818
+    second: Hackerman_79
   - first:
-      213: -1737445742504823567
-    second: HackermanSprite_80
+      213: 5490656739297283063
+    second: Hackerman_80
   - first:
-      213: -6185817365445382534
-    second: HackermanSprite_81
+      213: -5995998016350505882
+    second: Hackerman_81
   - first:
-      213: -6289044102449610417
-    second: HackermanSprite_82
+      213: 3483751996914140580
+    second: Hackerman_82
   - first:
-      213: -2733733906198699761
-    second: HackermanSprite_83
+      213: -792228694515645679
+    second: Hackerman_83
   - first:
-      213: -1632762700300279577
-    second: HackermanSprite_84
+      213: 2126332001070356716
+    second: Hackerman_84
   - first:
-      213: -4207969166361518058
-    second: HackermanSprite_85
+      213: -8583009803504429354
+    second: Hackerman_85
   - first:
-      213: -4275862246061148878
-    second: HackermanSprite_86
+      213: 667123812652470608
+    second: Hackerman_86
   - first:
-      213: 7634113031188069971
-    second: HackermanSprite_87
+      213: 5904210267962787299
+    second: Hackerman_87
   - first:
-      213: 902196146300980072
-    second: HackermanSprite_88
+      213: -8481717810806012832
+    second: Hackerman_88
   - first:
-      213: -565297656968972188
-    second: HackermanSprite_89
+      213: 2463431719377380320
+    second: Hackerman_89
   - first:
-      213: -6908245161856580790
-    second: HackermanSprite_90
+      213: 8026957448308897322
+    second: Hackerman_90
   - first:
-      213: -619068137451717551
-    second: HackermanSprite_91
+      213: 3964512904360424045
+    second: Hackerman_91
   - first:
-      213: -6187583672036361432
-    second: HackermanSprite_92
+      213: 2491868689251588346
+    second: Hackerman_92
   - first:
-      213: -1462653253923448878
-    second: HackermanSprite_93
+      213: 927873776444683073
+    second: Hackerman_93
   - first:
-      213: 7282861487907781818
-    second: HackermanSprite_94
+      213: 6133226737474592914
+    second: Hackerman_94
   - first:
-      213: 3549983599482713878
-    second: HackermanSprite_95
+      213: -8687580527200007048
+    second: Hackerman_95
   - first:
-      213: -8194763134838176870
-    second: HackermanSprite_96
+      213: -3246765021130397892
+    second: Hackerman_96
   - first:
-      213: -8886320437528272067
-    second: HackermanSprite_97
+      213: -3534957052907116359
+    second: Hackerman_97
   - first:
-      213: 3053463934370547477
-    second: HackermanSprite_98
+      213: -4279365841341954543
+    second: Hackerman_98
   - first:
-      213: 3581288075061781730
-    second: HackermanSprite_99
+      213: 4250921621566018103
+    second: Hackerman_99
   - first:
-      213: 23502941244003616
-    second: HackermanSprite_100
+      213: 5039114067742083102
+    second: Hackerman_100
   - first:
-      213: 8691388733943933751
-    second: HackermanSprite_101
+      213: 3597875232243573643
+    second: Hackerman_101
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -338,7 +338,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -374,7 +374,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -386,7 +386,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -397,10 +397,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HackermanSprite_0
+      name: Hackerman_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 3
         y: 270
         width: 21
         height: 24
@@ -411,17 +411,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52b260a1388f2daa0800000000000000
-      internalID: -6137570100191548635
+      spriteID: 26dd11e57a1363500800000000000000
+      internalID: 375542213839543650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_1
+      name: Hackerman_1
       rect:
         serializedVersion: 2
-        x: 23
+        x: 25
         y: 270
         width: 21
         height: 24
@@ -432,17 +432,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb1c6e2b3fc26abd0800000000000000
-      internalID: -2619356708079222338
+      spriteID: 42ff8e5765cbac8e0800000000000000
+      internalID: -1672317232083304668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_2
+      name: Hackerman_2
       rect:
         serializedVersion: 2
-        x: 45
+        x: 47
         y: 270
         width: 20
         height: 24
@@ -453,17 +453,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98d3e273dab4faa60800000000000000
-      internalID: 7687446296271928713
+      spriteID: 7934ba11cc80fda00800000000000000
+      internalID: 783354532748542871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_3
+      name: Hackerman_3
       rect:
         serializedVersion: 2
-        x: 66
+        x: 68
         y: 270
         width: 24
         height: 22
@@ -474,17 +474,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c51b36df72e1a5d80800000000000000
-      internalID: -8261257409354026660
+      spriteID: 2ebc66b93971297a0800000000000000
+      internalID: -6372004600040993822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_4
+      name: Hackerman_4
       rect:
         serializedVersion: 2
-        x: 91
+        x: 93
         y: 270
         width: 16
         height: 24
@@ -495,17 +495,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21657a0771437d000800000000000000
-      internalID: 60574395271697938
+      spriteID: dbebb56df7dab1af0800000000000000
+      internalID: -424554975287591235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_5
+      name: Hackerman_5
       rect:
         serializedVersion: 2
-        x: 108
+        x: 110
         y: 270
         width: 21
         height: 22
@@ -516,17 +516,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0cd0755ffb442130800000000000000
-      internalID: 3541038767042255884
+      spriteID: 57948c31bc5e49e90800000000000000
+      internalID: -7019733258790745739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_6
+      name: Hackerman_6
       rect:
         serializedVersion: 2
-        x: 130
+        x: 132
         y: 264
         width: 26
         height: 30
@@ -537,17 +537,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41b0085566ea0cb50800000000000000
-      internalID: 6611476007524240148
+      spriteID: bfff6ebd716d87770800000000000000
+      internalID: 8608866085680644091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_7
+      name: Hackerman_7
       rect:
         serializedVersion: 2
-        x: 157
+        x: 159
         y: 265
         width: 16
         height: 29
@@ -558,17 +558,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb7b1fcb051d65050800000000000000
-      internalID: 5789044515728897982
+      spriteID: 9e9dbb7d99f5f95d0800000000000000
+      internalID: -3053616907979859479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_8
+      name: Hackerman_8
       rect:
         serializedVersion: 2
-        x: 174
+        x: 176
         y: 272
         width: 16
         height: 22
@@ -579,17 +579,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 961efadd9c4dd4660800000000000000
-      internalID: 7371782128548176233
+      spriteID: 2dcd56fce3accd680800000000000000
+      internalID: -8728879606634521390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_9
+      name: Hackerman_9
       rect:
         serializedVersion: 2
-        x: 233
+        x: 235
         y: 273
         width: 28
         height: 21
@@ -600,17 +600,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50debea4fc0bcaa30800000000000000
-      internalID: 4227948554555747589
+      spriteID: 2af35c5155a2d8f20800000000000000
+      internalID: 3426441436424650658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_10
+      name: Hackerman_10
       rect:
         serializedVersion: 2
-        x: 1
+        x: 3
         y: 239
         width: 31
         height: 24
@@ -621,17 +621,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dccd470e1140a4c60800000000000000
-      internalID: 7803053779199515853
+      spriteID: b3c946638407bb2b0800000000000000
+      internalID: -5567733058860966853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_11
+      name: Hackerman_11
       rect:
         serializedVersion: 2
-        x: 33
+        x: 35
         y: 239
         width: 29
         height: 22
@@ -642,17 +642,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35cbf6556a81ef7a0800000000000000
-      internalID: -6341604122614055853
+      spriteID: c32fd04402275ec30800000000000000
+      internalID: 4388038894848700988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_12
+      name: Hackerman_12
       rect:
         serializedVersion: 2
-        x: 63
+        x: 65
         y: 239
         width: 26
         height: 24
@@ -663,17 +663,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cbd439aea4e437b0800000000000000
-      internalID: -5245316227165529144
+      spriteID: 852858c139b0a1db0800000000000000
+      internalID: -4820527724680084904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_13
+      name: Hackerman_13
       rect:
         serializedVersion: 2
-        x: 90
+        x: 92
         y: 239
         width: 30
         height: 22
@@ -684,17 +684,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3603c8a6d2f406b0800000000000000
-      internalID: -5330869055131548101
+      spriteID: a2f7243ee0ae8d6a0800000000000000
+      internalID: -6424127518780784854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_14
+      name: Hackerman_14
       rect:
         serializedVersion: 2
-        x: 121
+        x: 123
         y: 233
         width: 29
         height: 30
@@ -705,17 +705,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e04886955468e0d70800000000000000
-      internalID: 9011287536825828366
+      spriteID: d36f8aa0340bffac0800000000000000
+      internalID: -3819140156998748611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_15
+      name: Hackerman_15
       rect:
         serializedVersion: 2
-        x: 151
+        x: 153
         y: 234
         width: 24
         height: 29
@@ -726,17 +726,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a9ca66c81791b8f0800000000000000
-      internalID: -526473548761740888
+      spriteID: 4a28dab38b8edc230800000000000000
+      internalID: 3660837950094934692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_16
+      name: Hackerman_16
       rect:
         serializedVersion: 2
-        x: 176
+        x: 178
         y: 239
         width: 26
         height: 22
@@ -747,17 +747,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cde33a8cb6470940800000000000000
-      internalID: 5262252465192168899
+      spriteID: b055bc5ce9e789830800000000000000
+      internalID: 4078148682972353803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_17
+      name: Hackerman_17
       rect:
         serializedVersion: 2
-        x: 203
+        x: 205
         y: 252
         width: 31
         height: 20
@@ -768,17 +768,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce07752d7c608bcf0800000000000000
-      internalID: -236431525139746580
+      spriteID: 4c5183c88f7bb15e0800000000000000
+      internalID: -1937752936520608316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_18
+      name: Hackerman_18
       rect:
         serializedVersion: 2
-        x: 235
+        x: 237
         y: 248
         width: 31
         height: 24
@@ -789,17 +789,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dee704a8ab5ce6410800000000000000
-      internalID: 1472331533170802413
+      spriteID: 375cb1c6798c697a0800000000000000
+      internalID: -6370684070189611661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_19
+      name: Hackerman_19
       rect:
         serializedVersion: 2
-        x: 1
+        x: 3
         y: 208
         width: 27
         height: 24
@@ -810,17 +810,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a690fd595cd35e440800000000000000
-      internalID: 4964442083078113642
+      spriteID: 673d9c610de6d8590800000000000000
+      internalID: -7670352750327508106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_20
+      name: Hackerman_20
       rect:
         serializedVersion: 2
-        x: 29
+        x: 31
         y: 208
         width: 28
         height: 22
@@ -831,17 +831,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5de3b745ae8805b80800000000000000
-      internalID: -8408069964279628075
+      spriteID: 2ff3993739ac26ca0800000000000000
+      internalID: -6025030616819875854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_21
+      name: Hackerman_21
       rect:
         serializedVersion: 2
-        x: 58
+        x: 60
         y: 208
         width: 25
         height: 24
@@ -852,17 +852,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6523245db7ff758b0800000000000000
-      internalID: -5163377540433038762
+      spriteID: 6049282b2d621f5c0800000000000000
+      internalID: -4183519892470590458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_22
+      name: Hackerman_22
       rect:
         serializedVersion: 2
-        x: 84
+        x: 86
         y: 208
         width: 29
         height: 22
@@ -873,17 +873,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98c5c4cfafff6a590800000000000000
-      internalID: -7663156262484550519
+      spriteID: dcfb60a837c653360800000000000000
+      internalID: 7148739227013267405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_23
+      name: Hackerman_23
       rect:
         serializedVersion: 2
-        x: 114
+        x: 116
         y: 202
         width: 28
         height: 30
@@ -894,17 +894,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8af0f6debbdd60ad0800000000000000
-      internalID: -2736255924368896088
+      spriteID: 453b7e45810a359d0800000000000000
+      internalID: -2786707718048074924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_24
+      name: Hackerman_24
       rect:
         serializedVersion: 2
-        x: 143
+        x: 145
         y: 203
         width: 23
         height: 29
@@ -915,17 +915,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bcc300994f339300800000000000000
-      internalID: 257619188871580855
+      spriteID: 4dc1c242fe9df7790800000000000000
+      internalID: -7530060430812898092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_25
+      name: Hackerman_25
       rect:
         serializedVersion: 2
-        x: 167
+        x: 169
         y: 208
         width: 25
         height: 22
@@ -936,17 +936,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4c631940aabb4fb0800000000000000
-      internalID: -4662427791628473269
+      spriteID: 25b992fcaf7336f50800000000000000
+      internalID: 6873399006654470994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_26
+      name: Hackerman_26
       rect:
         serializedVersion: 2
-        x: 217
+        x: 219
         y: 223
         width: 31
         height: 24
@@ -957,17 +957,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d9f1affcdc3df700800000000000000
-      internalID: 575683247252568530
+      spriteID: ce7d6c6a6db1e1630800000000000000
+      internalID: 3899584936084428780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_27
+      name: Hackerman_27
       rect:
         serializedVersion: 2
-        x: 1
+        x: 3
         y: 177
         width: 21
         height: 24
@@ -978,17 +978,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 517df40bc0d967f10800000000000000
-      internalID: 2267172140250814229
+      spriteID: e54cf14e5b88e1720800000000000000
+      internalID: 2818840731578254430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_28
+      name: Hackerman_28
       rect:
         serializedVersion: 2
-        x: 23
+        x: 25
         y: 177
         width: 21
         height: 24
@@ -999,17 +999,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1d1e8cbb55360be0800000000000000
-      internalID: -1511461956814496482
+      spriteID: b216438175701d0c0800000000000000
+      internalID: -4552849677645225685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_29
+      name: Hackerman_29
       rect:
         serializedVersion: 2
-        x: 45
+        x: 47
         y: 177
         width: 21
         height: 24
@@ -1020,17 +1020,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ec2748698f8c4be0800000000000000
-      internalID: -1491659556243690264
+      spriteID: 972c4ec4802191900800000000000000
+      internalID: 655575047618216569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_30
+      name: Hackerman_30
       rect:
         serializedVersion: 2
-        x: 67
+        x: 69
         y: 177
         width: 21
         height: 22
@@ -1041,17 +1041,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95d5712acd539f4a0800000000000000
-      internalID: -6559152160559899303
+      spriteID: 88dab5314cbf89580800000000000000
+      internalID: -8820023050648179320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_31
+      name: Hackerman_31
       rect:
         serializedVersion: 2
-        x: 89
+        x: 91
         y: 177
         width: 18
         height: 24
@@ -1062,17 +1062,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89a773b3671a245b0800000000000000
-      internalID: -5385564675209987432
+      spriteID: 76e7b3876dca8c180800000000000000
+      internalID: -9094829410334572953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_32
+      name: Hackerman_32
       rect:
         serializedVersion: 2
-        x: 108
+        x: 110
         y: 177
         width: 22
         height: 22
@@ -1083,17 +1083,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8277b5f431041b780800000000000000
-      internalID: -8669077356031543512
+      spriteID: 814a9b27687796990800000000000000
+      internalID: -7392245894017866728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_33
+      name: Hackerman_33
       rect:
         serializedVersion: 2
-        x: 131
+        x: 133
         y: 171
         width: 24
         height: 30
@@ -1104,17 +1104,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f83518b2cc8011000800000000000000
-      internalID: 4794747600327567
+      spriteID: 86c0992ea97d14f40800000000000000
+      internalID: 5711082862709116008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_34
+      name: Hackerman_34
       rect:
         serializedVersion: 2
-        x: 156
+        x: 158
         y: 171
         width: 19
         height: 30
@@ -1125,17 +1125,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc8677f158dba3c70800000000000000
-      internalID: 8951675588808501455
+      spriteID: 7089f43d180553310800000000000000
+      internalID: 1384100979012507655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_35
+      name: Hackerman_35
       rect:
         serializedVersion: 2
-        x: 178
+        x: 180
         y: 171
         width: 26
         height: 30
@@ -1146,17 +1146,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a8a9b5e6b1ac53b0800000000000000
-      internalID: -5522361236152801118
+      spriteID: ca2777c6652f25aa0800000000000000
+      internalID: -6173605686170651988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_36
+      name: Hackerman_36
       rect:
         serializedVersion: 2
-        x: 210
+        x: 212
         y: 194
         width: 26
         height: 28
@@ -1167,17 +1167,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d00cf3ba6c55089a0800000000000000
-      internalID: -6232887572515799027
+      spriteID: 13b2d54e101be84b0800000000000000
+      internalID: -5436213078505215183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_37
+      name: Hackerman_37
       rect:
         serializedVersion: 2
-        x: 171
+        x: 173
         y: 185
         width: 6
         height: 6
@@ -1188,17 +1188,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19f2ae35e09a3f2d0800000000000000
-      internalID: -3246065027401502831
+      spriteID: 7a61fedbb867e96c0800000000000000
+      internalID: -4134737065320442201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_38
+      name: Hackerman_38
       rect:
         serializedVersion: 2
-        x: 1
+        x: 3
         y: 146
         width: 25
         height: 24
@@ -1209,17 +1209,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 050d9970459c8a230800000000000000
-      internalID: 3650388860725743696
+      spriteID: 13f76feafba387de0800000000000000
+      internalID: -1335252694566797519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_39
+      name: Hackerman_39
       rect:
         serializedVersion: 2
-        x: 27
+        x: 29
         y: 146
         width: 21
         height: 24
@@ -1230,17 +1230,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75a053cb01653ccc0800000000000000
-      internalID: -3692012639636616617
+      spriteID: 48b1f4990d95094a0800000000000000
+      internalID: -6588667502382867580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_40
+      name: Hackerman_40
       rect:
         serializedVersion: 2
-        x: 49
+        x: 51
         y: 146
         width: 25
         height: 24
@@ -1251,17 +1251,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92736466d0bac8bc0800000000000000
-      internalID: -3779457913231886551
+      spriteID: 84fbf7461ad4bdda0800000000000000
+      internalID: -5919051929677217976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_41
+      name: Hackerman_41
       rect:
         serializedVersion: 2
-        x: 75
+        x: 77
         y: 146
         width: 24
         height: 23
@@ -1272,17 +1272,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eccf079d595db2610800000000000000
-      internalID: 1597605332407876814
+      spriteID: d4a939340bc7aa280800000000000000
+      internalID: -9031269006248273331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_42
+      name: Hackerman_42
       rect:
         serializedVersion: 2
-        x: 100
+        x: 102
         y: 141
         width: 22
         height: 30
@@ -1293,17 +1293,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 003b75c6f6d667820800000000000000
-      internalID: 2915638134095459072
+      spriteID: ffdf1987ded6323c0800000000000000
+      internalID: -4385540745431220737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_43
+      name: Hackerman_43
       rect:
         serializedVersion: 2
-        x: 123
+        x: 125
         y: 141
         width: 16
         height: 29
@@ -1314,17 +1314,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41023771d42a56f60800000000000000
-      internalID: 8027000362847379476
+      spriteID: c8d469feec7b4e910800000000000000
+      internalID: 1865818245048978828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_44
+      name: Hackerman_44
       rect:
         serializedVersion: 2
-        x: 140
+        x: 142
         y: 141
         width: 21
         height: 29
@@ -1335,17 +1335,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28397c3f93144b940800000000000000
-      internalID: 5310941577735541634
+      spriteID: 2480c2db1e2fd6aa0800000000000000
+      internalID: -6166005263444998078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_45
+      name: Hackerman_45
       rect:
         serializedVersion: 2
-        x: 162
+        x: 164
         y: 141
         width: 23
         height: 28
@@ -1356,17 +1356,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4474428913f63cda0800000000000000
-      internalID: -5925770425892845756
+      spriteID: 8d57037ea879bbba0800000000000000
+      internalID: -6072093049738988072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_46
+      name: Hackerman_46
       rect:
         serializedVersion: 2
-        x: 186
+        x: 188
         y: 141
         width: 21
         height: 29
@@ -1377,59 +1377,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f6bc7d7c5f1ea420800000000000000
-      internalID: 2643084513415837427
+      spriteID: 3464e6addd7e600a0800000000000000
+      internalID: -6915585237742369213
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_47
+      name: Hackerman_47
       rect:
         serializedVersion: 2
-        x: 208
-        y: 141
-        width: 19
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7afe570d215b9330800000000000000
-      internalID: 3718655171163519614
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HackermanSprite_48
-      rect:
-        serializedVersion: 2
-        x: 228
-        y: 141
-        width: 21
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3e7949067e13b380800000000000000
-      internalID: -8956781741598998981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HackermanSprite_49
-      rect:
-        serializedVersion: 2
-        x: 250
+        x: 210
         y: 141
         width: 19
         height: 29
@@ -1440,17 +1398,59 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cef765667243fecd0800000000000000
-      internalID: -2526743522106245140
+      spriteID: 4d332ec22f6600190800000000000000
+      internalID: -7998279747888860204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_50
+      name: Hackerman_48
       rect:
         serializedVersion: 2
-        x: 1
+        x: 230
+        y: 141
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8163996f867043820800000000000000
+      internalID: 2896948607701300760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hackerman_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 141
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388f0b2a1df251130800000000000000
+      internalID: 3536785659793569923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hackerman_50
+      rect:
+        serializedVersion: 2
+        x: 3
         y: 116
         width: 21
         height: 24
@@ -1461,17 +1461,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9d76c6e484ff5370800000000000000
-      internalID: 8313632288793853338
+      spriteID: 031e3fd546371e090800000000000000
+      internalID: -8006991787577843408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_51
+      name: Hackerman_51
       rect:
         serializedVersion: 2
-        x: 23
+        x: 25
         y: 116
         width: 21
         height: 24
@@ -1482,17 +1482,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 184ae088cbf66e140800000000000000
-      internalID: 4748605712635962497
+      spriteID: 04554c8b164fed2b0800000000000000
+      internalID: -5557736189579733696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_52
+      name: Hackerman_52
       rect:
         serializedVersion: 2
-        x: 45
+        x: 47
         y: 116
         width: 28
         height: 24
@@ -1503,17 +1503,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c3b8a5fcf3b67ea0800000000000000
-      internalID: -5875310764823628863
+      spriteID: 2750a3cf1db58fb00800000000000000
+      internalID: 862540286079403378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_53
+      name: Hackerman_53
       rect:
         serializedVersion: 2
-        x: 74
+        x: 76
         y: 110
         width: 22
         height: 30
@@ -1524,17 +1524,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1120c02d70029900800000000000000
-      internalID: 689614230361481500
+      spriteID: 6b14fcb4e080fe8c0800000000000000
+      internalID: -3967943889195679306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_54
+      name: Hackerman_54
       rect:
         serializedVersion: 2
-        x: 97
+        x: 99
         y: 110
         width: 28
         height: 30
@@ -1545,17 +1545,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e00f3d1a9068b3160800000000000000
-      internalID: 7006341021232787470
+      spriteID: 9c43a81a4ec7bd820800000000000000
+      internalID: 2944084102821328073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_55
+      name: Hackerman_55
       rect:
         serializedVersion: 2
-        x: 126
+        x: 128
         y: 113
         width: 23
         height: 27
@@ -1566,17 +1566,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10c91ad3a8316e0a0800000000000000
-      internalID: -6852768298537214975
+      spriteID: 36e7f335cd39dd480800000000000000
+      internalID: -8872773116351250845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_56
+      name: Hackerman_56
       rect:
         serializedVersion: 2
-        x: 150
+        x: 152
         y: 113
         width: 27
         height: 27
@@ -1587,17 +1587,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f46c5cd51e4b7970800000000000000
-      internalID: 8753676156523013365
+      spriteID: 66502d6a33e2ae3b0800000000000000
+      internalID: -5482518796993165978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_57
+      name: Hackerman_57
       rect:
         serializedVersion: 2
-        x: 178
+        x: 180
         y: 116
         width: 21
         height: 23
@@ -1608,17 +1608,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ecc457aa7897fdb0800000000000000
-      internalID: -4758166828732855066
+      spriteID: d710c1f35f76d1720800000000000000
+      internalID: 2818523244827246973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_58
+      name: Hackerman_58
       rect:
         serializedVersion: 2
-        x: 200
+        x: 202
         y: 116
         width: 28
         height: 23
@@ -1629,17 +1629,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2f0c5022311e01c0800000000000000
-      internalID: -4535668867726569685
+      spriteID: e275dae804041be20800000000000000
+      internalID: 3364541042638280494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_59
+      name: Hackerman_59
       rect:
         serializedVersion: 2
-        x: 239
+        x: 241
         y: 111
         width: 26
         height: 28
@@ -1650,17 +1650,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f08bde2a12587b850800000000000000
-      internalID: 6392724575589611535
+      spriteID: 60ac311a32ccf6610800000000000000
+      internalID: 1616735244647647750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_60
+      name: Hackerman_60
       rect:
         serializedVersion: 2
-        x: 1
+        x: 3
         y: 83
         width: 21
         height: 24
@@ -1671,17 +1671,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c1eedbb97ab16390800000000000000
-      internalID: -7826769645387456059
+      spriteID: 32a20cdb2d964c4e0800000000000000
+      internalID: -1962327183779157469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_61
+      name: Hackerman_61
       rect:
         serializedVersion: 2
-        x: 23
+        x: 25
         y: 83
         width: 21
         height: 25
@@ -1692,17 +1692,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8462edbaa142a890800000000000000
-      internalID: -7448318632131402612
+      spriteID: eee0923ca5e2d5d30800000000000000
+      internalID: 4421741376503877358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_62
+      name: Hackerman_62
       rect:
         serializedVersion: 2
-        x: 45
+        x: 47
         y: 83
         width: 21
         height: 25
@@ -1713,17 +1713,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b492949e64b9e51c0800000000000000
-      internalID: -4512999047714756277
+      spriteID: f2473e32435922870800000000000000
+      internalID: 8656645484932461615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_63
+      name: Hackerman_63
       rect:
         serializedVersion: 2
-        x: 67
+        x: 69
         y: 83
         width: 21
         height: 25
@@ -1734,17 +1734,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dddc949b263e20d20800000000000000
-      internalID: 3243404694815100381
+      spriteID: ae74bd23480c58510800000000000000
+      internalID: 1550857320720451562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_64
+      name: Hackerman_64
       rect:
         serializedVersion: 2
-        x: 89
+        x: 91
         y: 83
         width: 21
         height: 26
@@ -1755,17 +1755,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d94873019b6945fa0800000000000000
-      internalID: -5812855497443277667
+      spriteID: 62bbd6434a3ac2540800000000000000
+      internalID: 4984538813241867046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_65
+      name: Hackerman_65
       rect:
         serializedVersion: 2
-        x: 111
+        x: 113
         y: 83
         width: 26
         height: 23
@@ -1776,17 +1776,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12d84f087daf27ee0800000000000000
-      internalID: -1264672741849264863
+      spriteID: bd76601ad13b34820800000000000000
+      internalID: 2901359524793706459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_66
+      name: Hackerman_66
       rect:
         serializedVersion: 2
-        x: 138
+        x: 140
         y: 83
         width: 23
         height: 24
@@ -1797,17 +1797,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7ae7bb5778927640800000000000000
-      internalID: 5076287368407280252
+      spriteID: 8db96b7217d06d1e0800000000000000
+      internalID: -2173534990510941224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_67
+      name: Hackerman_67
       rect:
         serializedVersion: 2
-        x: 162
+        x: 164
         y: 83
         width: 23
         height: 24
@@ -1818,17 +1818,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30906dc30c8058b70800000000000000
-      internalID: 8900529860315056387
+      spriteID: b661d335f53eef900800000000000000
+      internalID: 720262988983768683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_68
+      name: Hackerman_68
       rect:
         serializedVersion: 2
-        x: 186
+        x: 188
         y: 83
         width: 21
         height: 24
@@ -1839,17 +1839,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d86ef72c58190ce0800000000000000
-      internalID: -1438591821881120560
+      spriteID: 9662e51d9d0d5fc90800000000000000
+      internalID: -7136568400559593879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_69
+      name: Hackerman_69
       rect:
         serializedVersion: 2
-        x: 208
+        x: 210
         y: 83
         width: 21
         height: 24
@@ -1860,17 +1860,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13fa2cf9a2c49ab90800000000000000
-      internalID: -7230163980813947087
+      spriteID: c4a0650de968b5e70800000000000000
+      internalID: 9105019088317844044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_70
+      name: Hackerman_70
       rect:
         serializedVersion: 2
-        x: 230
+        x: 232
         y: 83
         width: 18
         height: 23
@@ -1881,17 +1881,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 234996c3a12aaf7a0800000000000000
-      internalID: -6342578891631520718
+      spriteID: 3d527bc130870cc40800000000000000
+      internalID: 5530552297172968915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_71
+      name: Hackerman_71
       rect:
         serializedVersion: 2
-        x: 1
+        x: 3
         y: 53
         width: 19
         height: 24
@@ -1902,17 +1902,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a339e462b493d98a0800000000000000
-      internalID: -6296813709066071238
+      spriteID: d0da0aa631dbb0cd0800000000000000
+      internalID: -2590769269530645235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_72
+      name: Hackerman_72
       rect:
         serializedVersion: 2
-        x: 21
+        x: 23
         y: 53
         width: 20
         height: 28
@@ -1923,17 +1923,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20fe6a613863942f0800000000000000
-      internalID: -988198706582458622
+      spriteID: 03a2000e1e0634320800000000000000
+      internalID: 2540981138009106992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_73
+      name: Hackerman_73
       rect:
         serializedVersion: 2
-        x: 42
+        x: 44
         y: 53
         width: 17
         height: 29
@@ -1944,17 +1944,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ac60fe981179c6f0800000000000000
-      internalID: -663875119500727128
+      spriteID: 75556aad104d6bda0800000000000000
+      internalID: -5929318754958289577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_74
+      name: Hackerman_74
       rect:
         serializedVersion: 2
-        x: 60
+        x: 62
         y: 57
         width: 21
         height: 25
@@ -1965,17 +1965,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a55f82f13becdd90800000000000000
-      internalID: -7071518715123116634
+      spriteID: d2244b7da7075ded0800000000000000
+      internalID: -2389880354342944211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_75
+      name: Hackerman_75
       rect:
         serializedVersion: 2
-        x: 82
+        x: 84
         y: 57
         width: 22
         height: 25
@@ -1986,17 +1986,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cffabe03ec67fe8c0800000000000000
-      internalID: -3967822118734024708
+      spriteID: 75b83ebc08974cc50800000000000000
+      internalID: 6684601341008120663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_76
+      name: Hackerman_76
       rect:
         serializedVersion: 2
-        x: 105
+        x: 107
         y: 57
         width: 22
         height: 25
@@ -2007,17 +2007,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9b792f81899b0520800000000000000
-      internalID: 2669395985878842270
+      spriteID: cca563e234222ce20800000000000000
+      internalID: 3369293143160019660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_77
+      name: Hackerman_77
       rect:
         serializedVersion: 2
-        x: 128
+        x: 130
         y: 57
         width: 22
         height: 25
@@ -2028,17 +2028,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e64b78452a3c45dc0800000000000000
-      internalID: -3651078295920331666
+      spriteID: c1f76327d39977430800000000000000
+      internalID: 3780658901389049628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_78
+      name: Hackerman_78
       rect:
         serializedVersion: 2
-        x: 151
+        x: 153
         y: 57
         width: 22
         height: 25
@@ -2049,17 +2049,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d871471214de3f570800000000000000
-      internalID: 8499397785768171405
+      spriteID: 93b9d0595ac2e2ce0800000000000000
+      internalID: -1428154942147945671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_79
+      name: Hackerman_79
       rect:
         serializedVersion: 2
-        x: 180
+        x: 182
         y: 33
         width: 26
         height: 28
@@ -2070,17 +2070,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e70ec0a32baade7e0800000000000000
-      internalID: -1734542599012949890
+      spriteID: ef2c3af09134d3ea0800000000000000
+      internalID: -5891478962615106818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_80
+      name: Hackerman_80
       rect:
         serializedVersion: 2
-        x: 208
+        x: 210
         y: 32
         width: 30
         height: 30
@@ -2091,19 +2091,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f43c757d4a53e7e0800000000000000
-      internalID: -1737445742504823567
+      spriteID: 7fb4b61b63bb23c40800000000000000
+      internalID: 5490656739297283063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_81
+      name: Hackerman_81
       rect:
         serializedVersion: 2
-        x: 239
+        x: 241
         y: 33
-        width: 30
+        width: 29
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2112,17 +2112,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7e6f2741ef872aa0800000000000000
-      internalID: -6185817365445382534
+      spriteID: 6643b71829fe9cca0800000000000000
+      internalID: -5995998016350505882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_82
+      name: Hackerman_82
       rect:
         serializedVersion: 2
-        x: 1
+        x: 3
         y: 26
         width: 6
         height: 26
@@ -2133,17 +2133,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f41c9b8a5b3d8b8a0800000000000000
-      internalID: -6289044102449610417
+      spriteID: 4a500a5cbf5c85030800000000000000
+      internalID: 3483751996914140580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_83
+      name: Hackerman_83
       rect:
         serializedVersion: 2
-        x: 8
+        x: 10
         y: 26
         width: 12
         height: 24
@@ -2154,17 +2154,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f01e59a0f73df0ad0800000000000000
-      internalID: -2733733906198699761
+      spriteID: 113068223307105f0800000000000000
+      internalID: -792228694515645679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_84
+      name: Hackerman_84
       rect:
         serializedVersion: 2
-        x: 21
+        x: 23
         y: 26
         width: 18
         height: 15
@@ -2175,17 +2175,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e0281e89f24759e0800000000000000
-      internalID: -1632762700300279577
+      spriteID: ce8185e60bf328d10800000000000000
+      internalID: 2126332001070356716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_85
+      name: Hackerman_85
       rect:
         serializedVersion: 2
-        x: 40
+        x: 42
         y: 26
         width: 26
         height: 13
@@ -2196,17 +2196,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 610a935865a4a95c0800000000000000
-      internalID: -4207969166361518058
+      spriteID: 6d65c66fe0603e880800000000000000
+      internalID: -8583009803504429354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_86
+      name: Hackerman_86
       rect:
         serializedVersion: 2
-        x: 67
+        x: 69
         y: 26
         width: 16
         height: 18
@@ -2217,17 +2217,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 235750311f519a4c0800000000000000
-      internalID: -4275862246061148878
+      spriteID: 051da52b299124900800000000000000
+      internalID: 667123812652470608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_87
+      name: Hackerman_87
       rect:
         serializedVersion: 2
-        x: 84
+        x: 86
         y: 26
         width: 19
         height: 22
@@ -2238,17 +2238,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35e3527ca51d1f960800000000000000
-      internalID: 7634113031188069971
+      spriteID: 3e5c225f4f7ffe150800000000000000
+      internalID: 5904210267962787299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_88
+      name: Hackerman_88
       rect:
         serializedVersion: 2
-        x: 104
+        x: 106
         y: 26
         width: 18
         height: 23
@@ -2259,17 +2259,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86b0ff17d9e358c00800000000000000
-      internalID: 902196146300980072
+      spriteID: 064cdc1d692ea4a80800000000000000
+      internalID: -8481717810806012832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_89
+      name: Hackerman_89
       rect:
         serializedVersion: 2
-        x: 123
+        x: 125
         y: 26
         width: 21
         height: 24
@@ -2280,17 +2280,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 468f00ca6c8a728f0800000000000000
-      internalID: -565297656968972188
+      spriteID: 0e32be1d81edf2220800000000000000
+      internalID: 2463431719377380320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_90
+      name: Hackerman_90
       rect:
         serializedVersion: 2
-        x: 149
+        x: 151
         y: 29
         width: 28
         height: 22
@@ -2301,17 +2301,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a434a3270abf020a0800000000000000
-      internalID: -6908245161856580790
+      spriteID: a26b0a5454b756f60800000000000000
+      internalID: 8026957448308897322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_91
+      name: Hackerman_91
       rect:
         serializedVersion: 2
-        x: 185
+        x: 187
         y: 2
         width: 26
         height: 28
@@ -2322,17 +2322,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15c7d671fc0a867f0800000000000000
-      internalID: -619068137451717551
+      spriteID: d62fadb4b77c40730800000000000000
+      internalID: 3964512904360424045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_92
+      name: Hackerman_92
       rect:
         serializedVersion: 2
-        x: 212
+        x: 214
         y: 1
         width: 28
         height: 30
@@ -2343,19 +2343,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82bf34afe69412aa0800000000000000
-      internalID: -6187583672036361432
+      spriteID: af852c1de55e49220800000000000000
+      internalID: 2491868689251588346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_93
+      name: Hackerman_93
       rect:
         serializedVersion: 2
-        x: 241
+        x: 243
         y: 1
-        width: 28
+        width: 27
         height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2364,17 +2364,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d7d2527d9c93bbe0800000000000000
-      internalID: -1462653253923448878
+      spriteID: 143b269984870ec00800000000000000
+      internalID: 927873776444683073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_94
+      name: Hackerman_94
       rect:
         serializedVersion: 2
-        x: 1
+        x: 3
         y: 1
         width: 21
         height: 24
@@ -2385,17 +2385,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abcbd1fdfebe11560800000000000000
-      internalID: 7282861487907781818
+      spriteID: 290e916f8399d1550800000000000000
+      internalID: 6133226737474592914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_95
+      name: Hackerman_95
       rect:
         serializedVersion: 2
-        x: 23
+        x: 25
         y: 1
         width: 21
         height: 24
@@ -2406,17 +2406,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61731ad6643144130800000000000000
-      internalID: 3549983599482713878
+      spriteID: 87c84ae0a838f6780800000000000000
+      internalID: -8687580527200007048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_96
+      name: Hackerman_96
       rect:
         serializedVersion: 2
-        x: 45
+        x: 47
         y: 1
         width: 21
         height: 24
@@ -2427,17 +2427,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a930189b85a564e80800000000000000
-      internalID: -8194763134838176870
+      spriteID: c37eb565a6c21f2d0800000000000000
+      internalID: -3246765021130397892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_97
+      name: Hackerman_97
       rect:
         serializedVersion: 2
-        x: 67
+        x: 69
         y: 1
         width: 21
         height: 24
@@ -2448,17 +2448,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3365d0d4a27da480800000000000000
-      internalID: -8886320437528272067
+      spriteID: 9b8a5351a4f41fec0800000000000000
+      internalID: -3534957052907116359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_98
+      name: Hackerman_98
       rect:
         serializedVersion: 2
-        x: 89
+        x: 91
         y: 1
         width: 21
         height: 24
@@ -2469,17 +2469,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5178f963545106a20800000000000000
-      internalID: 3053463934370547477
+      spriteID: 1164fdab073ac94c0800000000000000
+      internalID: -4279365841341954543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_99
+      name: Hackerman_99
       rect:
         serializedVersion: 2
-        x: 111
+        x: 113
         y: 1
         width: 21
         height: 24
@@ -2490,17 +2490,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e46660a78a43b130800000000000000
-      internalID: 3581288075061781730
+      spriteID: 732587541be4efa30800000000000000
+      internalID: 4250921621566018103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_100
+      name: Hackerman_100
       rect:
         serializedVersion: 2
-        x: 133
+        x: 135
         y: 1
         width: 21
         height: 24
@@ -2511,17 +2511,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0259600fccf735000800000000000000
-      internalID: 23502941244003616
+      spriteID: e18c076db878ee540800000000000000
+      internalID: 5039114067742083102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HackermanSprite_101
+      name: Hackerman_101
       rect:
         serializedVersion: 2
-        x: 155
+        x: 157
         y: 1
         width: 21
         height: 24
@@ -2532,8 +2532,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73b6f8b21040e9870800000000000000
-      internalID: 8691388733943933751
+      spriteID: b83ed0c16783ee130800000000000000
+      internalID: 3597875232243573643
       vertices: []
       indices: 
       edges: []
