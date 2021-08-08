@@ -7,6 +7,7 @@ public class DoorController : MonoBehaviour
     public bool isOpen = false;
     private Rigidbody2D body;
     private Vector2 startPos;
+    [SerializeField] private int speed;
 
     private void Start()
     {
@@ -15,16 +16,16 @@ public class DoorController : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         if (isOpen)
         {
             //transform.position = Vector2.MoveTowards(transform.position, startPos - new Vector2(0,4), 10 * Time.deltaTime);
-            body.MovePosition(Vector2.MoveTowards(transform.position, startPos - new Vector2(0, 4), 10 * Time.deltaTime));
+            body.MovePosition(Vector2.MoveTowards(transform.position, startPos - new Vector2(0, 4), speed * Time.deltaTime));
         } else
         {
             //transform.position = Vector2.MoveTowards(transform.position, startPos, 10 * Time.deltaTime);
-            body.MovePosition(Vector2.MoveTowards(transform.position, startPos, 10 * Time.deltaTime));
+            body.MovePosition(Vector2.MoveTowards(transform.position, startPos, speed * Time.deltaTime));
         }
 
 

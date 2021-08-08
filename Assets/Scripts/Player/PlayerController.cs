@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.InputSystem;
+using TMPro;
 
 public class PlayerController : PlayerStateManager
 {
@@ -11,11 +11,13 @@ public class PlayerController : PlayerStateManager
     public LayerMask jumpMask;
     public int speed = 3;
     public Transform castPoint;
-    private Animator anim;
+    
     public Vector2 vel;
     public GameObject boolet;
     public float range;
 
+    private Animator anim;
+    [SerializeField] private TextMeshProUGUI dialog;
 
     private void Awake()
     {
@@ -24,6 +26,7 @@ public class PlayerController : PlayerStateManager
         anim = GetComponent<Animator>();
 
         SetState(new PlayerStateBase(body));
+        dialog.text = "";
     }
 
     public void Jump()
@@ -39,5 +42,8 @@ public class PlayerController : PlayerStateManager
         vel = velocity;
     }
 
-
+    public void SetText(string _str)
+    {
+        dialog.text = _str;
+    }
 }
