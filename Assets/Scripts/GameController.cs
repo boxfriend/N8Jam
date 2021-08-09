@@ -12,7 +12,7 @@ public class GameController : MonoBehaviour
 
     private bool paused;
     private bool debugScreen;
-    [SerializeField] private int preLevelScenes;
+    [SerializeField] private int preLevelScenes, totalTrophies;
 
     private void Awake()
     {
@@ -91,5 +91,10 @@ public class GameController : MonoBehaviour
     public int GetLvl()
     {
         return level;
+    }
+
+    public int TotalTrophies()
+    {
+        return totalTrophies;
     }
 }
