@@ -45,6 +45,7 @@ public class GameController : MonoBehaviour
     public void Play()
     {
         Time.timeScale = 1;
+        level = PlayerPrefs.GetInt("Level", 1);
         SceneManager.LoadSceneAsync(level + preLevelScenes, LoadSceneMode.Single);
     }
 
