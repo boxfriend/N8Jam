@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - Destructable
   - PlayerSpawn
+  - LevelController
   layers:
   - Default
   - TransparentFX

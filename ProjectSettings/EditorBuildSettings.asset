@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Overlays/Pause.unity
     guid: 329d05cbf30ed8e4396a466103ee1c1e
   - enabled: 1
+    path: Assets/Scenes/Overlays/Debug.unity
+    guid: 3eecc86605ffd5747be1b1be391208ad
+  - enabled: 1
     path: Assets/Scenes/Levels/Tut1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1

@@ -24,6 +24,6 @@ public class TimedPlayerReset : MonoBehaviour
             yield return new WaitForSeconds(delay);
         }
         txt.text = "";
-        StartCoroutine(PlayerController.instance.PlayerDeath());
+        StartCoroutine(PlayerController.instance.PlayerDeathBypass());
     }
 }

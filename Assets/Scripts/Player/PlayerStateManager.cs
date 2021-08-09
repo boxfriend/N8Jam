@@ -62,6 +62,11 @@ public class PlayerStateManager : MonoBehaviour
         state.OnEscape();
     }
 
+    void OnDebug()
+    {
+        state.OnDebug();
+    }
+
     public void GunGet()
     {
         state.GunGet();

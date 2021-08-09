@@ -88,6 +88,23 @@ public class PlayerController : PlayerStateManager
         }
     }
 
+    public IEnumerator PlayerDeathBypass()
+    {
+        PlayerPause();
+        anim.SetFloat("X", 0);
+        anim.SetBool("Grounded", true);
+        anim.SetBool("Fire", false);
+        transform.position = spawnPoint.position;
+        yield return new WaitForSeconds(1f);
+        foreach (string s in deathMessages)
+        {
+            SetText(s);
+            yield return new WaitForSeconds(txtDelay);
+        }
+        SetText("");
+        PlayerPrevState();
+    }
+
     public void ToggleGodMode()
     {
         godMode = !godMode;
@@ -103,5 +120,10 @@ public class PlayerController : PlayerStateManager
         SetText(s);
         yield return new WaitForSeconds(txtDelay);
         SetText("");
+    }
+
+    public void DebugIsActive()
+    {
+        StartCoroutine(PrivateDialog("~ i have admin privs?"));
     }
 }

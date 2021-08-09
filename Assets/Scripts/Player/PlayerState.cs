@@ -95,6 +95,18 @@ public abstract class PlayerState
         GameController.instance.Pause();
     }
 
+    public virtual void OnDebug()
+    {
+        try
+        {
+            GameController.instance.ToggleDebug();
+        }
+        catch (System.NullReferenceException)
+        {
+            Debug.LogWarning("GameController not active in hierarchy");
+        }
+    }
+
     public virtual IEnumerator Exit()
     {
         moveDir = 0;

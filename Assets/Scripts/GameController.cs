@@ -11,6 +11,7 @@ public class GameController : MonoBehaviour
     private int level;
 
     private bool paused;
+    private bool debugScreen;
     [SerializeField] private int preLevelScenes;
 
     private void Awake()
@@ -66,10 +67,29 @@ public class GameController : MonoBehaviour
         }
     }
 
+    public void ToggleDebug()
+    {
+        debugScreen = !debugScreen;
+
+        if (debugScreen)
+        {
+            SceneManager.LoadSceneAsync("Debug", LoadSceneMode.Additive);
+        }
+        else
+        {
+            SceneManager.UnloadSceneAsync("Debug");
+        }
+    }
+
     public void NextLevel()
     {
         level++;
         PlayerPrefs.SetInt("Level", level);
         Play();
+    }
+
+    public int GetLvl()
+    {
+        return level;
     }
 }
