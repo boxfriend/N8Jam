@@ -11,7 +11,7 @@ public abstract class PlayerState
 
     protected bool isGrounded = true;
 
-    protected bool canFire = true;
+    protected bool canFire = false;
 
     public PlayerState(Rigidbody2D _body)
     {
@@ -97,6 +97,13 @@ public abstract class PlayerState
 
     public virtual IEnumerator Exit()
     {
+        moveDir = 0;
+        body.velocity = Vector2.zero;
         yield break;
+    }
+
+    public virtual void GunGet()
+    {
+        canFire = true;
     }
 }

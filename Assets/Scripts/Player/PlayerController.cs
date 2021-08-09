@@ -11,14 +11,18 @@ public class PlayerController : PlayerStateManager
     public LayerMask jumpMask;
     public int speed = 3;
     public float fireDelay;
-    public Transform castPoint, firePoint;
+    public Transform castPoint, firePoint, spawnPoint;
     
     public Vector2 vel;
     public GameObject boolet;
     public float range;
 
+    public float txtDelay;
+
+    private bool godMode = false;
     private Animator anim;
     [SerializeField] private TextMeshProUGUI dialog;
+    [SerializeField] private string[] deathMessages;
 
     private void Awake()
     {
@@ -62,5 +66,42 @@ public class PlayerController : PlayerStateManager
     public void PlayerPrevState()
     {
         SetState(prevState);
+    }
+
+    public IEnumerator PlayerDeath()
+    {
+        if (!godMode)
+        {
+            PlayerPause();
+            anim.SetFloat("X", 0);
+            anim.SetBool("Grounded", true);
+            anim.SetBool("Fire", false);
+            transform.position = spawnPoint.position;
+            yield return new WaitForSeconds(1f);
+            foreach (string s in deathMessages)
+            {
+                SetText(s);
+                yield return new WaitForSeconds(txtDelay);
+            }
+            SetText("");
+            PlayerPrevState();
+        }
+    }
+
+    public void ToggleGodMode()
+    {
+        godMode = !godMode;
+
+        if (godMode)
+        {
+            StartCoroutine(PrivateDialog("~ god mode?"));
+        }
+    }
+
+    private IEnumerator PrivateDialog(string s)
+    {
+        SetText(s);
+        yield return new WaitForSeconds(txtDelay);
+        SetText("");
     }
 }

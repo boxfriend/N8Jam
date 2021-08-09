@@ -29,8 +29,15 @@ public class BugReportController : MonoBehaviour
         foreach (string s in texts)
         {
             PlayerController.instance.SetText(s);
-            yield return new WaitForSeconds(3);
+            yield return new WaitForSeconds(PlayerController.instance.txtDelay);
         }
-        Destroy(gameObject);
+
+        try
+        {
+            GameController.instance.NextLevel();
+        } catch(System.NullReferenceException)
+        {
+            Debug.LogWarning("GameController Not Active in Hierarchy");
+        }
     }
 }

@@ -24,7 +24,12 @@ public class TrophyController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            GameController.instance.UpdateTrophies(1);
+            try
+            {
+                GameController.instance.UpdateTrophies(1);
+            } catch(System.NullReferenceException) {
+                Debug.LogWarning("GameController Not Active in Hierarchy");
+            }
             StartCoroutine(CongratsText());
         }
     }
@@ -36,7 +41,7 @@ public class TrophyController : MonoBehaviour
         foreach (string s in texts) 
         {
             PlayerController.instance.SetText(s);
-            yield return new WaitForSeconds(delay);
+            yield return new WaitForSeconds(PlayerController.instance.txtDelay);
         }
         Destroy(gameObject);
     }

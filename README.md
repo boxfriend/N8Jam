@@ -12,6 +12,8 @@ The theme of the jam led me to the hacker theme for the game. The original idea 
 
 ---
 ###### Asset Attributions:
+[Pathfinding](https://arongranberg.com/astar) by [Aron Granberg](https://arongranberg.com/)
+
 [Tileset](https://kenney.nl/assets/bit-platformer-pack) by Kenney.nl
 
 [Azonix Font](https://www.fontspace.com/azonix-font-f30718) by mixofx

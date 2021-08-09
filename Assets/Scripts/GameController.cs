@@ -64,4 +64,11 @@ public class GameController : MonoBehaviour
             SceneManager.UnloadSceneAsync("Pause");
         }
     }
+
+    public void NextLevel()
+    {
+        level++;
+        PlayerPrefs.SetInt("Level", level);
+        Play();
+    }
 }

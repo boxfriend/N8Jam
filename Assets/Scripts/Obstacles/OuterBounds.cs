@@ -21,7 +21,7 @@ public class OuterBounds : MonoBehaviour
         foreach (string s in texts)
         {
             PlayerController.instance.SetText(s);
-            yield return new WaitForSeconds(3);
+            yield return new WaitForSeconds(PlayerController.instance.txtDelay);
         }
         isRunning = false;
     }
