@@ -7,7 +7,7 @@ public class DoorController : MonoBehaviour
     public bool isOpen = false;
     private Rigidbody2D body;
     private Vector2 startPos;
-    [SerializeField] private int speed;
+    [SerializeField] private float speed;
 
     private void Start()
     {
