@@ -23,8 +23,7 @@ public class GOTriggerCheck : MonoBehaviour
             {
                 textObjects[i].SetActive(true);
             }
-
-            yield break;
         }
+        yield break;
     }
 }

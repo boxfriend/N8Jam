@@ -199,6 +199,33 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Menu",
+            "id": "23eedc14-28e1-4586-8140-360c8e5f7258",
+            "actions": [
+                {
+                    "name": "ScenePick",
+                    "type": "Button",
+                    "id": "d56ae723-3e71-4b7b-b0b6-796979adde97",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "99d818c1-0fc1-418e-a400-6ead09fe8e26",
+                    "path": "<Keyboard>/f3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ScenePick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": []

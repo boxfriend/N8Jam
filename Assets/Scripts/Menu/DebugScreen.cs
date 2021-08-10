@@ -20,7 +20,7 @@ public class DebugScreen : MonoBehaviour
         {
             lvlCount.text = "LVL: " + GameController.instance.GetLvl();
 
-            if (GameController.instance.GetLvl() >= 3)
+            if (GameController.instance.GetLvl() >= 4)
                 gmToggle.SetActive(true);
         }
         catch (System.NullReferenceException)

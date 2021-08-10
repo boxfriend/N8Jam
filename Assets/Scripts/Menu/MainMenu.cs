@@ -7,6 +7,11 @@ public class MainMenu : MonoBehaviour
 {
 
     [SerializeField] private TextMeshProUGUI trophyCounter, trophyDialog;
+
+    [SerializeField] private GameObject secretPanel, nice;
+
+    private int secretTimes = 0;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -21,7 +26,7 @@ public class MainMenu : MonoBehaviour
         } else if (0.75f < (trophies / total)  && (trophies / total) <= 0.99f)
         {
             trophyDialog.text = "~ oooh almost there";
-        } else if (0.75f >= (trophies / total) && (trophies / total) > 0.5f)
+        } else if (0.75f >= (trophies / total) && (trophies / total) > 0.4f)
         {
             trophyDialog.text = "~ i have a bunch of these";
         } else if (trophies == 69)
@@ -36,6 +41,17 @@ public class MainMenu : MonoBehaviour
         } else
         {
             trophyDialog.text = "";
+        }
+    }
+
+    void OnScenePick()
+    {
+        secretPanel.SetActive(!secretPanel.activeSelf);
+        secretTimes++;
+
+        if(secretTimes >= 69)
+        {
+            nice.SetActive(true);
         }
     }
 
