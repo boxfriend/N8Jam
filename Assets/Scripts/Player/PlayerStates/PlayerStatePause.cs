@@ -47,11 +47,12 @@ public class PlayerStatePause : PlayerState
 
     public override IEnumerator Start()
     {
+        PlayerController.instance.MoveAnim(0);
         yield break;
     }
 
-    public override void Update()
+    /*public override void Update()
     {
         
-    }
+    }*/
 }

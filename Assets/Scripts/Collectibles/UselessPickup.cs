@@ -1,15 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
 
-public class TrophyController : MonoBehaviour
+public class UselessPickup : MonoBehaviour
 {
-    private CapsuleCollider2D box;
+    private Collider2D box;
     // Start is called before the first frame update
     void Start()
     {
-        box = GetComponent<CapsuleCollider2D>();
+        box = GetComponent<Collider2D>();
     }
 
     // Update is called once per frame
@@ -22,15 +21,8 @@ public class TrophyController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            try
-            {
-                GameController.instance.UpdateTrophies(1);
-            } catch(System.NullReferenceException) {
-                Debug.LogWarning("GameController Not Active in Hierarchy");
-            }
             box.enabled = false;
             GetComponent<SpriteRenderer>().enabled = false;
         }
     }
-
 }

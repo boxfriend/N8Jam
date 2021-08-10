@@ -16,8 +16,8 @@ public class PlayerController : PlayerStateManager
     public Vector2 vel;
     public GameObject boolet;
     public float range;
-
     public float txtDelay;
+
 
     private bool godMode = false;
     private Animator anim;

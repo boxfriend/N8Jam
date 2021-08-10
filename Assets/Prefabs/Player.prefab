@@ -191,6 +191,7 @@ MonoBehaviour:
   fireDelay: 0.75
   castPoint: {fileID: 5067010394987320039}
   firePoint: {fileID: 4655850884088159429}
+  spawnPoint: {fileID: 0}
   vel: {x: 0, y: 0}
   boolet: {fileID: 3969155660836961469, guid: f8ac0b922d90db54da2b2b55a611687d, type: 3}
   range: 10

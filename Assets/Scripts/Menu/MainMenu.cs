@@ -17,13 +17,22 @@ public class MainMenu : MonoBehaviour
         float total = GameController.instance.TotalTrophies();
         if (trophies == total)
         {
-            trophyDialog.text = "~ i have all trophies";
+            trophyDialog.text = "~ i have all of the trophies";
         } else if (0.75f < (trophies / total)  && (trophies / total) <= 0.99f)
         {
             trophyDialog.text = "~ oooh almost there";
         } else if (0.75f >= (trophies / total) && (trophies / total) > 0.5f)
         {
             trophyDialog.text = "~ i have a bunch of these";
+        } else if (trophies == 69)
+        {
+            trophyDialog.text = "~ nice";
+        } else if (trophies == 420)
+        {
+            trophyDialog.text = "~ blaze it";
+        } else if (trophies > total)
+        {
+            trophyDialog.text = "~ replaying levels for more trophies is cool so now i get this cool really long text on the main menu";
         } else
         {
             trophyDialog.text = "";

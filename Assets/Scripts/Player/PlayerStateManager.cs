@@ -9,6 +9,9 @@ public class PlayerStateManager : MonoBehaviour
     protected PlayerState prevState;
     protected Rigidbody2D body;
     protected float fireDir;
+
+
+    public bool isPassive;
     protected void SetState(PlayerState _state)
     {
         if (state != null)
@@ -70,6 +73,7 @@ public class PlayerStateManager : MonoBehaviour
     public void GunGet()
     {
         state.GunGet();
+        isPassive = false;
     }
 
 }

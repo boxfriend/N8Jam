@@ -1142,7 +1142,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 2147483647
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -1377,7 +1377,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '> collect the bug report to finish this job'
+  m_text: '> be a good employee and get the bug reports'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a6d622413b7537469f0c26e4895e92d, type: 2}
   m_sharedMaterial: {fileID: 6099511348091355285, guid: 4a6d622413b7537469f0c26e4895e92d, type: 2}
@@ -1440,7 +1440,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -3.3596916, y: 0, z: 0, w: 0}
+  m_margin: {x: -3.6895294, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2303,6 +2303,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1540859888}
     m_Modifications:
+    - target: {fileID: -2042856774934236680, guid: 1c5c9d5c846acad40a10a317bdfafd4f, type: 3}
+      propertyPath: texts.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2042856774934236680, guid: 1c5c9d5c846acad40a10a317bdfafd4f, type: 3}
+      propertyPath: texts.Array.data[0]
+      value: ~ why is this here?
+      objectReference: {fileID: 0}
     - target: {fileID: 2719996894414126976, guid: 1c5c9d5c846acad40a10a317bdfafd4f, type: 3}
       propertyPath: delay
       value: 2
@@ -2803,6 +2811,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1540859888}
     m_Modifications:
+    - target: {fileID: -2042856774934236680, guid: 1c5c9d5c846acad40a10a317bdfafd4f, type: 3}
+      propertyPath: texts.Array.data[0]
+      value: ~ this was hard to find
+      objectReference: {fileID: 0}
+    - target: {fileID: -2042856774934236680, guid: 1c5c9d5c846acad40a10a317bdfafd4f, type: 3}
+      propertyPath: texts.Array.data[1]
+      value: ~ i bet i can find more if i try looking harder
+      objectReference: {fileID: 0}
     - target: {fileID: 2719996894414126976, guid: 1c5c9d5c846acad40a10a317bdfafd4f, type: 3}
       propertyPath: texts.Array.data[0]
       value: ~ this wasn't easy to find

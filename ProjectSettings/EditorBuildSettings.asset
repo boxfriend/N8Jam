@@ -21,7 +21,13 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels/Tut2.unity
     guid: 996c10d41f39cd04d80f23b600a023e3
   - enabled: 1
-    path: Assets/Scenes/Levels/Lvl1.unity
+    path: Assets/Scenes/Levels/Level1.unity
+    guid: 92f8bd52de0e5f84db2d30bbb5479db6
+  - enabled: 1
+    path: Assets/Scenes/Levels/UnderConstruction.unity
     guid: 8cb58142300cef14f84b851dd02d5587
+  - enabled: 1
+    path: Assets/Scenes/Levels/AChoice.unity
+    guid: 6c169b05174ee824f82be12ce57c73b9
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: eac5f96307b21b4408bc9d397a73537a, type: 2}

@@ -8,9 +8,10 @@ public class EnemyBasic : MonoBehaviour
     [SerializeField] private int health;
     [SerializeField] private string[] texts;
 
-    private CircleCollider2D col;
+    private BoxCollider2D col;
     private SpriteRenderer spr;
     private AIPath ai;
+    private AIDestinationSetter target;
 
 
     private bool alive = true;
@@ -19,9 +20,10 @@ public class EnemyBasic : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        col = GetComponent<CircleCollider2D>();
+        col = GetComponent<BoxCollider2D>();
         spr = GetComponent<SpriteRenderer>();
         ai = GetComponent<AIPath>();
+        target = GetComponent<AIDestinationSetter>();
     }
 
     // Update is called once per frame
@@ -62,6 +64,14 @@ public class EnemyBasic : MonoBehaviour
             {
                 StartCoroutine(Die());
             }
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            target.target = collision.gameObject.transform;
         }
     }
 
