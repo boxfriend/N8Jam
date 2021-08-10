@@ -65,4 +65,10 @@ public class MainMenu : MonoBehaviour
     {
         
     }
+
+    public void UpdateTrophies()
+    {
+        int trophies = GameController.instance.GetTrophies();
+        trophyCounter.text = trophies.ToString();
+    }
 }
