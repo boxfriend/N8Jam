@@ -11,37 +11,14 @@ public class MainMenu : MonoBehaviour
     [SerializeField] private GameObject secretPanel, nice;
 
     private int secretTimes = 0;
+    private int trophies;
 
     // Start is called before the first frame update
     void Start()
     {
 
-        int trophies = GameController.instance.GetTrophies();
-        trophyCounter.text = trophies.ToString();
-
-        float total = GameController.instance.TotalTrophies();
-        if (trophies == total)
-        {
-            trophyDialog.text = "~ i have all of the trophies";
-        } else if (0.75f < (trophies / total)  && (trophies / total) <= 0.99f)
-        {
-            trophyDialog.text = "~ oooh almost there";
-        } else if (0.75f >= (trophies / total) && (trophies / total) > 0.4f)
-        {
-            trophyDialog.text = "~ i have a bunch of these";
-        } else if (trophies == 69)
-        {
-            trophyDialog.text = "~ nice";
-        } else if (trophies == 420)
-        {
-            trophyDialog.text = "~ blaze it";
-        } else if (trophies > total)
-        {
-            trophyDialog.text = "~ replaying levels for more trophies is cool so now i get this cool really long text on the main menu";
-        } else
-        {
-            trophyDialog.text = "";
-        }
+        UpdateTrophies();
+        UpdateTxt();
     }
 
     void OnScenePick()
@@ -61,14 +38,48 @@ public class MainMenu : MonoBehaviour
         
     }
 
+    void UpdateTxt()
+    {
+        float total = GameController.instance.TotalTrophies();
+        if (trophies == total)
+        {
+            trophyDialog.text = "~ i have all of the trophies";
+        }
+        else if (0.75f < (trophies / total) && (trophies / total) <= 0.99f)
+        {
+            trophyDialog.text = "~ oooh almost there";
+        }
+        else if (0.75f >= (trophies / total) && (trophies / total) > 0.4f)
+        {
+            trophyDialog.text = "~ i have a bunch of these";
+        }
+        else if (trophies == 69)
+        {
+            trophyDialog.text = "~ nice";
+        }
+        else if (trophies == 420)
+        {
+            trophyDialog.text = "~ blaze it";
+        }
+        else if (trophies > total)
+        {
+            trophyDialog.text = "~ replaying levels for more trophies is cool so now i get this cool really long text on the main menu";
+        }
+        else
+        {
+            trophyDialog.text = "";
+        }
+    }
+
     private void FixedUpdate()
     {
-        
+        UpdateTrophies();
+        UpdateTxt();
     }
 
     public void UpdateTrophies()
     {
-        int trophies = GameController.instance.GetTrophies();
+        trophies = GameController.instance.GetTrophies();
         trophyCounter.text = trophies.ToString();
     }
 }

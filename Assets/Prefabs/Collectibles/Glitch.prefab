@@ -124,6 +124,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texts:
-  - ~ what is that?
-  - ~ it seems to be some sort of hint
+  - ~ what is minecraft and how do you "check coords" in it?
   destroyOnDone: 1

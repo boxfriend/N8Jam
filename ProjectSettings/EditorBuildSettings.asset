@@ -24,10 +24,16 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels/Level1.unity
     guid: 92f8bd52de0e5f84db2d30bbb5479db6
   - enabled: 1
-    path: Assets/Scenes/Levels/UnderConstruction.unity
-    guid: 8cb58142300cef14f84b851dd02d5587
+    path: Assets/Scenes/Levels/Level2.unity
+    guid: 5d328a14d20627247a29008efabca3f6
   - enabled: 1
     path: Assets/Scenes/Levels/AChoice.unity
     guid: 6c169b05174ee824f82be12ce57c73b9
+  - enabled: 1
+    path: Assets/Scenes/Levels/UnderConstruction.unity
+    guid: 8cb58142300cef14f84b851dd02d5587
+  - enabled: 1
+    path: Assets/Scenes/SecretMenuLevel.unity
+    guid: 80a085ae589911545aa6530593165489
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: eac5f96307b21b4408bc9d397a73537a, type: 2}

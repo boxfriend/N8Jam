@@ -12,7 +12,7 @@ public class GameController : MonoBehaviour
 
     private bool paused;
     private bool debugScreen;
-    [SerializeField] private int preLevelScenes, totalTrophies;
+    [SerializeField] private int preLevelScenes, totalTrophies, constructionLevelID;
 
     private void Awake()
     {
@@ -46,7 +46,7 @@ public class GameController : MonoBehaviour
     public void Play()
     {
         Time.timeScale = 1;
-        level = PlayerPrefs.GetInt("Level", 1);
+        level = Mathf.Clamp(PlayerPrefs.GetInt("Level", 1), 0, constructionLevelID);
         SceneManager.LoadSceneAsync(level + preLevelScenes, LoadSceneMode.Single);
     }
 
@@ -85,7 +85,8 @@ public class GameController : MonoBehaviour
     {
         level++;
         PlayerPrefs.SetInt("Level", level);
-        Play();
+        Time.timeScale = 1;
+        SceneManager.LoadSceneAsync(level + preLevelScenes, LoadSceneMode.Single);
     }
 
     public int GetLvl()

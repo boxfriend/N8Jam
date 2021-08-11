@@ -57,5 +57,14 @@ public class TheFinalChoice : MonoBehaviour
         Destroy(level);
         yield return new WaitForSeconds(2f);
         finalTxt.text = "> we are not finished here . . .";
+        yield return new WaitForSeconds(2f);
+        try
+        {
+            GameController.instance.NextLevel();
+        }
+        catch (System.NullReferenceException)
+        {
+            Debug.Log("GameController not active in hierarchy");
+        }
     }
 }

@@ -96,12 +96,6 @@ public class PlayerController : PlayerStateManager
         anim.SetBool("Fire", false);
         transform.position = spawnPoint.position;
         yield return new WaitForSeconds(1f);
-        foreach (string s in deathMessages)
-        {
-            SetText(s);
-            yield return new WaitForSeconds(txtDelay);
-        }
-        SetText("");
         PlayerPrevState();
     }
 

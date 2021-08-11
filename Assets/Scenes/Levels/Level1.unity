@@ -5846,6 +5846,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: BugReport
       objectReference: {fileID: 0}
+    - target: {fileID: 8951331252642546979, guid: 0733e05a7f3d41d4280225990c5c3795, type: 3}
+      propertyPath: texts.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951331252642546979, guid: 0733e05a7f3d41d4280225990c5c3795, type: 3}
+      propertyPath: texts.Array.data[0]
+      value: ~ is this really all there is to it?
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951331252642546979, guid: 0733e05a7f3d41d4280225990c5c3795, type: 3}
+      propertyPath: texts.Array.data[1]
+      value: ~ bug reports are boring
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0733e05a7f3d41d4280225990c5c3795, type: 3}
 --- !u!4 &1011327020 stripped
