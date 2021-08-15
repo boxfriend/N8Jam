@@ -26,7 +26,7 @@ public abstract class PlayerState
     // Update is called once per frame
     public virtual void Update()
     {
-        RaycastHit2D ray = BoxCast(PlayerController.instance.castPoint.position, new Vector2(0.5f, 0.5f), 0f, Vector2.down, 0.2f, PlayerController.instance.jumpMask);
+        RaycastHit2D ray = BoxCast(PlayerController.instance.castPoint.position, new Vector2(0.5f, 0.5f), 0f, Vector2.down, 0.1f, PlayerController.instance.jumpMask);
         if (body.velocity.y <= 0 && ray)
         {
             isGrounded = true;
@@ -69,6 +69,7 @@ public abstract class PlayerState
         {
             isGrounded = false;
             body.AddForce(new Vector2(0, 7), ForceMode2D.Impulse);
+            PlayerController.instance.SetAnimState(true);
         }
     }
 
