@@ -27,8 +27,7 @@ public abstract class PlayerState
     public virtual void Update()
     {
         RaycastHit2D ray = BoxCast(PlayerController.instance.castPoint.position, new Vector2(0.5f, 0.5f), 0f, Vector2.down, 0.2f, PlayerController.instance.jumpMask);
-
-        if (ray)
+        if (body.velocity.y <= 0 && ray)
         {
             isGrounded = true;
             PlayerController.instance.SetAnimState(true);
@@ -37,7 +36,7 @@ public abstract class PlayerState
                 body.gameObject.layer = 6;
             }
         }
-        else
+        else if (!ray)
         {
             isGrounded = false;
             PlayerController.instance.SetAnimState(false);
@@ -54,6 +53,8 @@ public abstract class PlayerState
             PlayerController.instance.SetAnimState(false);
             body.gameObject.layer = 7;
         }
+
+        
     }
 
     public virtual void OnMove(InputValue value)
@@ -65,7 +66,10 @@ public abstract class PlayerState
     public virtual void OnJump()
     {
         if (isGrounded)
+        {
+            isGrounded = false;
             body.AddForce(new Vector2(0, 7), ForceMode2D.Impulse);
+        }
     }
 
     public virtual void OnDown(InputValue value)
