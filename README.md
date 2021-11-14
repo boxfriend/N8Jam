@@ -5,6 +5,7 @@ Theme of the jam is "Break the System" with an optional piece of lore: "I could 
 
 The theme of the jam led me to the hacker theme for the game. The original idea for the game was to create a game similar to the classic Megaman games. This of course led to the Hackerman name and inspired the character sprites which are based on Megaman sprites.
 
+[Playable Here](https://theboxfriend.itch.io/hackerman)
 ---
 ###### Asset Attributions:
 [Pathfinding](https://arongranberg.com/astar) by [Aron Granberg](https://arongranberg.com/)
